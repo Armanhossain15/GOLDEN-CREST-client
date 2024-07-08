@@ -1,0 +1,63 @@
+[
+    {
+      "name": "John Doe",
+      "designation": "Software Engineer at TechCorp",
+      "opinion": "The Golden Crest is an amazing place to stay. The rooms are clean and the staff is very friendly. Highly recommend!",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "name": "Jane Smith",
+      "designation": "Marketing Manager at MarketGuru",
+      "opinion": "I had a wonderful time at the Golden Crest. The location is perfect, and the breakfast was delicious.",
+      "image": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "name": "Michael Brown",
+      "designation": "Graphic Designer at CreativeStudio",
+      "opinion": "Great experience! The hotel is beautiful and the service is top-notch. Will definitely come back.",
+      "image": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "name": "Emily Davis",
+      "designation": "Project Manager at BuildIt",
+      "opinion": "The Golden Crest exceeded my expectations. Comfortable rooms, excellent service, and a relaxing atmosphere.",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "name": "Chris Johnson",
+      "designation": "Sales Executive at SellWell",
+      "opinion": "I enjoyed my stay at the Golden Crest. The amenities were excellent, and the staff went above and beyond to ensure our comfort.",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "name": "Patricia Wilson",
+      "designation": "HR Specialist at PeopleMatter",
+      "opinion": "Fantastic hotel! The rooms were spacious and clean, and the staff was incredibly helpful. Highly recommend.",
+      "image": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "name": "Daniel Garcia",
+      "designation": "Financial Analyst at FinInsights",
+      "opinion": "Lovely stay at the Golden Crest. The views from my room were breathtaking and the facilities were top-class.",
+      "image": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "name": "Laura Martinez",
+      "designation": "Content Writer at WriteIt",
+      "opinion": "I had an amazing time at the Golden Crest. The service was impeccable, and the location is very convenient for exploring the city.",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "name": "David Anderson",
+      "designation": "Architect at DesignWorld",
+      "opinion": "The Golden Crest is a wonderful hotel. The staff is very professional and the rooms are very comfortable.",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "name": "Sophia Lee",
+      "designation": "Doctor at HealthFirst",
+      "opinion": "Best hotel experience ever! The Golden Crest offers luxurious rooms and outstanding service.",
+      "image": "https://randomuser.me/api/portraits/women/5.jpg"
+    }
+  ]
+  
